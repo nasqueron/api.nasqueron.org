@@ -13,7 +13,7 @@
     },
     {
         "id": "notes",
-        "title:" "Nasqueron Notes",
+        "title": "Nasqueron Notes",
         "description": "A service to publish quick notes, code snippets or annotatable images.",
         "shorcutKey": "n"
     },

@@ -30,8 +30,8 @@
         "shorcutKey": "t"
     },
     {
-        "id": "wiki",
-        "title": "Wiki",
+        "id": "agora",
+        "title": "Agora",
         "description": "Collection of notes about Nasqueron and other stuff",
         "shorcutKey": "w"
     }

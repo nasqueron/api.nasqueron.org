@@ -34,5 +34,11 @@
         "title": "Agora",
         "description": "Collection of notes about Nasqueron and other stuff",
         "shorcutKey": "w"
+    },
+    {
+        "id": "devcentral",
+        "title": "DevCentral",
+        "description": "Coding adventure game",
+        "shorcutKey": "²"
     }
 ]

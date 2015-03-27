@@ -14,19 +14,19 @@
     {
         "id": "notes",
         "title": "Nasqueron Notes",
-        "description": "A service to publish quick notes, code snippets or annotatable images.",
+        "description": "A service to publish quick notes, code snippets or annotatable images",
         "shorcutKey": "n"
     },
     {
         "id": "planet",
         "title": "Planet Nasqueron",
-        "description": "The blogs Nasqueron members enjoy.",
+        "description": "The blogs Nasqueron members enjoy",
         "shorcutKey": "p"
     },
     {
         "id": "tools",
         "title": "Nasqueron Tools",
-        "description": "Small utilities, gadgets & scripts to perform daily tasks.",
+        "description": "Small utilities, gadgets & scripts to perform daily tasks",
         "shorcutKey": "t"
     },
     {

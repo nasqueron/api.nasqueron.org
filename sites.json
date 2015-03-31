@@ -12,6 +12,12 @@
         "shorcutKey": "d"
     },
     {
+        "id": "forum",
+        "title": "Nasqueron Forum",
+        "description": "A bulletin board for discussions",
+        "shorcutKey": "f"
+    },
+    {
         "id": "notes",
         "title": "Nasqueron Notes",
         "description": "A service to publish quick notes, code snippets or annotatable images",

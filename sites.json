@@ -6,6 +6,12 @@
         "shorcutKey": "b"
     },
     {
+        "id": "ci",
+        "title": "Continous integration and development",
+        "description": "Jenkins installation",
+        "shorcutKey": "j"
+    },
+    {
         "id": "databases",
         "title": "Nasqueron Databases",
         "description": "Collection of databases, and small applications build on the top of these databases",

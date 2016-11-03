@@ -1,0 +1,8 @@
+{
+  "linters": {
+    "json": {
+      "type": "jsonlint",
+      "include": "(\\.json$)"
+    }
+  }
+}

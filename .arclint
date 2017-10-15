@@ -1,8 +1,28 @@
 {
   "linters": {
+    "chmod": {
+      "type": "chmod"
+    },
+    "filename": {
+      "type": "filename"
+    },
     "json": {
       "type": "jsonlint",
-      "include": "(\\.json$)"
+      "include": [
+        "(^\\.arcconfig$)",
+        "(^\\.arclint$)",
+        "(\\.json$)"
+      ]
+    },
+    "merge-conflict": {
+      "type": "merge-conflict"
+    },
+    "php": {
+      "type": "php",
+      "include": "(\\.php$)"
+    },
+    "spelling": {
+      "type": "spelling"
     }
   }
 }

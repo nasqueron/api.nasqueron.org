@@ -7,7 +7,7 @@
     },
     {
         "id": "ci",
-        "title": "Continous integration and development",
+        "title": "Continuous integration and development",
         "description": "Jenkins installation",
         "shorcutKey": "j"
     },

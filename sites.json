@@ -3,54 +3,54 @@
         "id": "blog",
         "title": "Nasqueron Blog",
         "description": "Our blog",
-        "shorcutKey": "b"
+        "shortcutKey": "b"
     },
     {
         "id": "ci",
         "title": "Continuous integration and development",
         "description": "Jenkins installation",
-        "shorcutKey": "j"
+        "shortcutKey": "j"
     },
     {
         "id": "databases",
         "title": "Nasqueron Databases",
         "description": "Collection of databases, and small applications build on the top of these databases",
-        "shorcutKey": "d"
+        "shortcutKey": "d"
     },
     {
         "id": "forum",
         "title": "Nasqueron Forum",
         "description": "A bulletin board for discussions",
-        "shorcutKey": "f"
+        "shortcutKey": "f"
     },
     {
         "id": "notes",
         "title": "Nasqueron Notes",
         "description": "A service to publish quick notes, code snippets or annotatable images",
-        "shorcutKey": "n"
+        "shortcutKey": "n"
     },
     {
         "id": "planet",
         "title": "Planet Nasqueron",
         "description": "The blogs Nasqueron members enjoy",
-        "shorcutKey": "p"
+        "shortcutKey": "p"
     },
     {
         "id": "tools",
         "title": "Nasqueron Tools",
         "description": "Small utilities, gadgets & scripts to perform daily tasks",
-        "shorcutKey": "t"
+        "shortcutKey": "t"
     },
     {
         "id": "agora",
         "title": "Agora",
         "description": "Collection of notes about Nasqueron and other stuff",
-        "shorcutKey": "w"
+        "shortcutKey": "w"
     },
     {
         "id": "devcentral",
         "title": "DevCentral",
         "description": "Coding adventure game",
-        "shorcutKey": "²"
+        "shortcutKey": "²"
     }
 ]

@@ -1,0 +1,32 @@
+{
+    "windriver": {
+        "name": "WindRiver",
+        "hostname": "windriver.nasqueron.org",
+        "description": "Development server",
+        "configurator": "salt"
+    },
+    "ysul": {
+        "name": "Ysul",
+        "hostname": "ysul.nasqueron.org",
+        "description": "Development server (legacy)",
+        "configurator": "salt"
+    },
+    "cloudhugger": {
+        "name": "CloudHugger",
+        "hostname": "cloudhugger.nasqueron.org",
+        "description": "OpenSearch testing",
+        "configurator": "salt"
+    },
+    "docker-001": {
+        "name": "docker-001",
+        "hostname": "docker-001.nasqueron.org",
+        "description": "Docker engine (prod)",
+        "configurator": "salt"
+    },
+    "dwellers": {
+        "name": "Dwellers",
+        "hostname": "dwellers.nasqueron.org",
+        "description": "Docker engine (dev)",
+        "configurator": "salt"
+    }
+}
